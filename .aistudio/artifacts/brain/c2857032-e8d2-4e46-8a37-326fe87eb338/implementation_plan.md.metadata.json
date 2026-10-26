@@ -1,0 +1,6 @@
+{
+  "summary":  "Architecture and execution blueprint for JARVIS AI, an intelligent, lightweight, and secure voice-controlled Android assistant featuring Gemini 3.8 Flash integration, SpeechRecognizer, TextToSpeech, allowlisted Android system action executor, Room local history, and an optional user-authorized Accessibility Service.",
+  "updatedAt":  "2026-10-26T14:20:49.743272600Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

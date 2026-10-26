@@ -1,0 +1,6 @@
+{
+  "name": "JARVIS AI",
+  "description": "Voice-controlled Android AI assistant with Gemini reasoning, speech input/output, and secure system action execution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
